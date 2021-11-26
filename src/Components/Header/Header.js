@@ -15,7 +15,7 @@ const Header = () => {
       <>
       
   
-      <Navbar className="menu" collapseOnSelect expand="lg"  variant="dark" >
+      <Navbar className="menu" collapseOnSelect expand="lg"  >
   <Container>
   <Navbar.Brand className="logo" as={Link} to="/home">MEDICARE </Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />

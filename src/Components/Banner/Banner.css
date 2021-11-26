@@ -1,5 +1,7 @@
 .banner-container{
     background-color: #10217d;
+    display: flex;
+    justify-content: center;
 }
 .banner {
     background-color: #10217d;
@@ -7,10 +9,10 @@
     width: 100%;
 }
   img{
-      width: 100%;
+      width: 1%;
   }
   .title {
-    color: white;
+    color: rgb(253, 253, 253);
     font-weight: bold;
     font-size: 45px;
   }

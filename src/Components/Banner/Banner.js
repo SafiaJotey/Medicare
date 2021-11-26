@@ -1,6 +1,6 @@
 import React from "react";
 import "./Banner.css";
-import Header from './../Header/Header';
+import Header from '../Header/Header';
 import banner from "../..//images/banner.png";
 
 const Banner = () => {
@@ -13,7 +13,7 @@ const Banner = () => {
             <h1 className="title ">
               YOUR HEALTH, <br /> OUR FIRST PRIORITY
             </h1>
-            <p className="text-white text-center mt-3">
+            <p className=" text-center mt-3">
             Healthcare Pharmaceuticals limited (HPL) is one of the best kinds of company in the pharmaceutical industry in Bangladesh.
             </p>
             <button className="mt-3 about-btn">About Us</button>
