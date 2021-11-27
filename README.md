@@ -11,5 +11,5 @@ Medicare, A health care  center. which is providing six different services to pe
 <li>Clicking each service details one can know details about that service but for that he/she have to be registered and logged in</li>
 <li>From the About us section one can Know about Medicare's Journey</li>
 <li>There is also a contact page users can  share their views with Medicare </li>
-<li>Authentication system is  also used in this project/li>
+<li>Authentication system is  also used in this project</li>
 </ul>
